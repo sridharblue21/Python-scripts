@@ -18,7 +18,7 @@ def phNum(num):
 
 ##print(phNum('+91000000o000'))
 
-num = 'Call me at +918056043724 tomorrow. +910000000000 is my office.'
+num = 'Call me at +91XXXXX24 tomorrow. +910000000000 is my office.'
 foundNumber = True
 for i in range(len(num)):
      chunk = num[i:i+13]
